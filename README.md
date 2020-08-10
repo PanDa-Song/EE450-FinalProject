@@ -8,6 +8,9 @@ This project is to simulate a covid-19 tesing application process. This process 
 
 The project has 2 major phases: 1) Hospitals provide the USC health center, the list of available departments that could do the testing process, 2) Students apply to the USC center to have the chance of getting tested. The USC health center makes the decision and sends the results to both students and hospitals. In phase 1 all communications are through TCP sockets.
 
+<img src="resources/phase1.jpg" width="50%">
+<img src="resources/phase2.png" width="50%">
+
 ## Compilation Steps
 
 - g++ -o Healthcenter Healthcenter.cpp
